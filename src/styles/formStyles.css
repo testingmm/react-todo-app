@@ -1,0 +1,17 @@
+select,
+textarea,
+td,
+label {
+    background-color: transparent !important;
+}
+
+.main {
+    height: 100%;
+
+}
+
+.btns {
+    position: absolute;
+    bottom: 30px;
+    right: 25px;
+}
